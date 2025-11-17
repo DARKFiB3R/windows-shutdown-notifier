@@ -444,9 +444,10 @@ Make sure you're running PowerShell **as Administrator**:
 
 ## Credits
 
-This guide and script were created to help Windows users understand why their computer shut down or restarted. Feel free to share this guide with others who might find it useful!
+This guide and script were created for my own personal use with the help of Claude AI (I can't code for sh*t). Hopefully others might find it useful.
 
 **Version:** 1.0  
 **Compatible with:** Windows 10/11  
 
-**Last Updated:** September 2025
+**Last Updated:** November 2025
+
