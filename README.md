@@ -2,7 +2,7 @@
 
 This guide will help you set up a **Windows Toast Notification system** that shows you the reason for your computer's last shutdown or restart when you log in.
 
-![Toast Notification Example](https://via.placeholder.com/400x100/2d3748/ffffff?text=Last+System+Event%3A+Clean+Shutdown%0AClean+Shutdown+at+2025%2F09%2F14+18%3A31%3A04+-+Normal+system+shutdown)
+<img width="396" height="463" alt="Photos_2025-09-15_07-51-25" src="https://github.com/user-attachments/assets/05bc347a-e83b-4113-97be-88d7e9ed5db9" />
 
 ## What You'll Get
 
@@ -448,4 +448,5 @@ This guide and script were created to help Windows users understand why their co
 
 **Version:** 1.0  
 **Compatible with:** Windows 10/11  
+
 **Last Updated:** September 2025
